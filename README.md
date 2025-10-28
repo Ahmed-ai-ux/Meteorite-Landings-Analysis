@@ -1,4 +1,3 @@
-# Cell 10: Update README with Multiple Visualizations
 readme_content = f"""
 # Meteorite Landings Data Analysis
 
