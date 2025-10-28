@@ -1,4 +1,3 @@
-readme_content = f"""
 # Meteorite Landings Data Analysis
 
 ## Project Overview
