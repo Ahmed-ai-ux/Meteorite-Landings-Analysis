@@ -45,5 +45,3 @@ This project analyzes a comprehensive dataset of meteorite landings through data
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn
 - **Jupyter Notebook** for analysis
 - **Git** for version control
-
-### Project Structure
